@@ -30,42 +30,6 @@ Python Developer • Machine Learning Enthusiast • Computer Science Student
 
 ---
 
-## 📌 Featured Projects
-
-### 💳 Credit Card Fraud Detection
-
-A machine learning project that detects fraudulent credit card transactions using classification algorithms.
-
-**Highlights**
-
-- Data preprocessing
-- Feature scaling
-- Model training & evaluation
-- Fraud prediction
-
-**Tech Used**
-
-Python • Pandas • NumPy • Scikit-learn • Matplotlib
-
----
-
-### 🖼 CNN Image Classifier (CIFAR-10)
-
-Built a Convolutional Neural Network to classify images from the CIFAR-10 dataset.
-
-**Highlights**
-
-- Deep Learning
-- CNN Architecture
-- Data Augmentation
-- Performance Evaluation
-
-**Tech Used**
-
-Python • TensorFlow • Keras • NumPy
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -105,14 +69,7 @@ Python • TensorFlow • Keras • NumPy
 - Improve Machine Learning skills
 - Contribute to Open Source
 - Secure a Python Developer role
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your email here)*
-
+  
 ---
 
 <p align="center">
