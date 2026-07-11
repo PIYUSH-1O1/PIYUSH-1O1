@@ -30,13 +30,6 @@ Python Developer • Machine Learning Enthusiast • Computer Science Student
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your email here)*
-
----
-
 <p align="center">
 
 ⭐ Thanks for visiting my profile!
