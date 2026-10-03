@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./assets/banner.gif" alt="PIYUSH" width="100%" />
+</div>
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 
 <h3 align="center">
